@@ -1,0 +1,12 @@
+title: A P Rishikeshvar
+     description: My personal website and blog
+     theme: jekyll-theme-chirpy
+     baseurl: "/rishikeshvar"
+     url: "https://rishi-14052005.github.io"
+     author: A P Rishikeshvar
+     markdown: kramdown
+     plugins:
+       - jekyll-feed
+       - jekyll-seo-tag
+     lang: en_US
+     timezone: Asia/Kolkata
