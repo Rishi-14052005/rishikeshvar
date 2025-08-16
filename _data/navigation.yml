@@ -1,0 +1,7 @@
+main:
+       - title: Home
+         url: /rishikeshvar/
+       - title: About
+         url: /rishikeshvar/about/
+       - title: Blogs
+         url: /rishikeshvar/archive/
