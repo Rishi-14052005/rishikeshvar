@@ -1,2 +1,0 @@
-# rishikeshvar
-My personal website 
